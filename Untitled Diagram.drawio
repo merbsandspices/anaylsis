@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T23:35:47.186Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="zDeSTT0DWlT3-ijFTlVr" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T23:39:26.999Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="_H1sXsNUTIdowl4shkyW" version="13.7.4" type="github">
   <diagram name="Use Case Diagram - Kronos" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1351" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -184,8 +184,8 @@
         <mxCell id="o9tcD4hmygBaCGeAGvL4-98" value="&lt;font face=&quot;Garamond&quot;&gt;Notification&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#B5739D;fillColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="930" y="-663" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o9tcD4hmygBaCGeAGvL4-110" value="Display time on timesheet" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#B5739D;fillColor=#E6D0DE;" vertex="1" parent="1">
-          <mxGeometry x="820" y="-456" width="80" height="64.29" as="geometry" />
+        <mxCell id="o9tcD4hmygBaCGeAGvL4-110" value="Display time on timesheet" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#B5739D;fillColor=#E6D0DE;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-460" width="90" height="68.29" as="geometry" />
         </mxCell>
         <mxCell id="o9tcD4hmygBaCGeAGvL4-114" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;fontFamily=Garamond;entryX=0.981;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="o9tcD4hmygBaCGeAGvL4-111" target="o9tcD4hmygBaCGeAGvL4-53">
           <mxGeometry relative="1" as="geometry">
@@ -207,8 +207,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o9tcD4hmygBaCGeAGvL4-111" value="Display error on clock" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#B5739D;fillColor=#E6D0DE;" vertex="1" parent="1">
-          <mxGeometry x="825" y="-333" width="70" height="60" as="geometry" />
+        <mxCell id="o9tcD4hmygBaCGeAGvL4-111" value="Display error on clock" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#B5739D;fillColor=#E6D0DE;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="825" y="-333" width="90" height="68.29" as="geometry" />
         </mxCell>
         <mxCell id="o9tcD4hmygBaCGeAGvL4-124" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;fontFamily=Garamond;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
